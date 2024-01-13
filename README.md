@@ -1,4 +1,4 @@
-# Coffee-Shop-Analysis
+# Coffee-Shop-Sales-Analysis
 
 
 ## Coffee Shop Sales
@@ -76,3 +76,4 @@ Are there specific locations with higher sales?
 
 
 # code-
+https://github.com/patilgopal0008/Coffee-Shop-Analysis/blob/main/Cofeeshopanalysis.sql
