@@ -6,7 +6,7 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 Dataset includes the transaction date, timestamp and location, along with product-level details.  
 
 ### Overview
-This repository contains the code and documentation for a data analysis project focused on the Coffee Shop Sales dataset. The dataset was obtained from Kaggle and can be found here. The project aims to explore, analyze, and visualize various aspects of the coffee sales data to derive meaningful insights.  
+This repository contains the code and documentation for a data analysis project focused on the Coffee Shop Sales dataset. The dataset was obtained from Kaggle and can be found here. The project aims to explore, analyze various aspects of the coffee sales data to derive meaningful insights.  
 
 Dataset
 Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details..
