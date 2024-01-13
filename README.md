@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales-Analysis
 
+## Aim:
+The aim of this project is to leverage SQL (Structured Query Language) to conduct a comprehensive analysis of the sales data from our coffee shop. By exploring and querying the database, we aim to gain valuable insights into various aspects of business  
 
 ## Coffee Shop Sales
 Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations.  
