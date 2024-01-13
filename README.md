@@ -33,41 +33,41 @@ product_detail : Description of the product detail
 
 ## Overview Questions:
 
-What is the total number of records in the dataset?
-How many unique products are included in the dataset?
-What is the time range covered by the dataset?
+What is the total number of records in the dataset?  
+How many unique products are included in the dataset?  
+What is the time range covered by the dataset?  
 
 ## Sales Analysis:
 
-What is the total sales revenue for all products?
-Which product has the highest sales revenue?
-Can you identify the top N products by sales?
+What is the total sales revenue for all products?  
+Which product has the highest sales revenue?  
+Can you identify the top N products by sales?  
 
 ## Time-Based Analysis:
 
-What is the monthly sales trend over the entire period?
-Are there any seasonal patterns in sales?
-Which day of the week has the highest sales on average?
+What is the monthly sales trend over the entire period?  
+Are there any seasonal patterns in sales?  
+Which day of the week has the highest sales on average?  
 
 ## Customer Analysis:
 
-How many unique customers made purchases?
-What is the average number of products purchased per customer?
-Who are the top N customers in terms of total spending?
+How many unique customers made purchases?  
+What is the average number of products purchased per customer?  
+Who are the top N customers in terms of total spending?  
 
 ## Product Performance:
 
-What are the best-selling products in terms of quantity sold?
-What is the average price per unit for each product?
-Are there any products that consistently underperform?
+What are the best-selling products in terms of quantity sold?  
+What is the average price per unit for each product?  
+Are there any products that consistently underperform?  
 
 ## Category Analysis:
 
-How are sales distributed across different product categories?
-Is there a correlation between product category and sales performance?
+How are sales distributed across different product categories?   
+Is there a correlation between product category and sales performance?  
 
 ## Geographical Analysis:
 
-If location data is available, how do sales vary across different regions?
-Are there specific locations with higher sales?
+If location data is available, how do sales vary across different regions?  
+Are there specific locations with higher sales?  
 
